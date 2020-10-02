@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  aws-cluster-autoscaler:
+  - apiVersion: v2
+    appVersion: 1.17.3
+    created: "2020-10-02T18:18:00.411133+02:00"
+    description: Helm chart for AWS cluster autoscaler
+    digest: b80602c2e63638116a5ed8504105eb7b79f74b25ca8fa4f2afd27507169b135e
+    name: aws-cluster-autoscaler
+    type: application
+    urls:
+    - https://gara-mi.github.io/helm-repos/aws-cluster-autoscaler-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-10-02T18:18:00.40844+02:00"
